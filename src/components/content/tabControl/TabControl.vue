@@ -38,6 +38,7 @@ export default {
   font-size: 15px;
   height: 40px;
   line-height: 40px;
+  z-index: 9;
 }
 
 .tab-control-item {
@@ -51,6 +52,7 @@ export default {
 .active span {
   padding: 5px;
   border-bottom: 3px solid var(--color-tint);
+
 }
 
 </style>
